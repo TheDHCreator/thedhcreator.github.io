@@ -18,7 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+<<<<<<< HEAD
 title: Sam Reynolds' IMMERSE Website (Summer 2021 Edition)
+=======
+title: Sam Reynolds' IMMERSE Site (Summer 2021 Edition)
+>>>>>>> 4d229168496eb89f29398bbc9c1e42672c112db9
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/TheDHCreator/thedhcreator.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
