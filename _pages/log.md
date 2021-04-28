@@ -6,7 +6,7 @@ title: IMMERSE Log
 ### Week 1: April 26th, 2021
 
 * **Monday**: Got computer set up and went through all the Linux tutorials.
-* **Tuesday**: Set up VS Code and my Github website, did pushes about what I learned yesterday and today.
+* **Tuesday**: Set up VS Code and my Github website, did pushes about what I learned and did yesterday and today, and also installed Vivado.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
