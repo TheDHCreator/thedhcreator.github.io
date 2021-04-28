@@ -7,7 +7,7 @@ title: IMMERSE Log
 
 * **Monday**: Got computer set up and went through all the Linux tutorials.
 * **Tuesday**: Set up VS Code and my Github website, did pushes about what I learned and did yesterday and today, and also installed Vivado.
-* **Wednesday**: Had to reinstall Vivado cause I put it in the tools folder of the machine, not on my own personal machine. I also cloned the Ice Machine repository, 
+* **Wednesday**: Had to reinstall and update Vivado onto my Linux machine (put it in the wrong folder last night). I also cloned the Ice Machine repository, went to Dr. Hawkins' Presentation, my Broader impact meeting, Bootcamp meeting and began the Git tutorials.
 * **Thursday**: 
 * **Friday**:
 
