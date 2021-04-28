@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-Samuel Reynolds was born in Mesa, Arizona in December of 1998. He grew up in the nearby city of Chandler with his parents, younger brother and two younger sisters.
+Samuel Reynolds was born in Mesa, Arizona in December of 1998. He grew up in the nearby city of Chandler with his parents, younger brother and two younger sisters.      
 
 After graduating from Heritage Academy in 2017, Samuel served in the Washington Federal Way and Washington Seattle Missions. Upon his return home, he entered the Electrical Engineering Program at Brigham Young University in the Fall of 2019. He is now 22 years old, has completed two years of the program, and has since added two minors to his academic repertoire: Computer Science and Mathematics.
 
