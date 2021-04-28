@@ -27,7 +27,7 @@ Some of Samuel's other hobbies and interests include playing piano, ballroom dan
 
 Dino-Hunters Part Three: Deadlock coming soon!
 
-Untitled Book with Abby Tucker and Brad Wilcox coming soon!
+Untitled Book with Abby Tucker and Brad Wilcox coming soon! 
 
 
 
