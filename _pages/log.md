@@ -115,7 +115,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-## Week 14: August 2nd, 2021
+### Week 14: August 2nd, 2021
 
 * **Monday**: 
 * **Tuesday**: 
@@ -123,7 +123,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-## Week 15: August 9th, 2021
+### Week 15: August 9th, 2021
 
 * **Monday**: 
 * **Tuesday**: 
@@ -131,7 +131,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-## Week 16: August 16th, 2021
+### Week 16: August 16th, 2021
 
 * **Monday**: 
 * **Tuesday**: 
@@ -139,7 +139,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-## Week 17: August 23rd, 2021
+### Week 17: August 23rd, 2021
 
 * **Monday**: 
 * **Tuesday**: 
@@ -147,7 +147,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-## Week 18: August 30th, 2021
+### Week 18: August 30th, 2021
 
 * **Monday**: 
 * **Tuesday**: 
