@@ -17,13 +17,13 @@ Some of Samuel's other hobbies and interests include playing piano, ballroom dan
 
 [Dino-Hunters Part One](https://www.amazon.com/Dino-Hunters-Part-Long-Lost-Secrets/dp/1505372496/ref=sr_1_4?dchild=1&qid=1619575958&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-4&text=Samuel+M.+Reynolds)
 
-[Dino-Hunters Part Two: Armageddon] (https://www.amazon.com/Dino-Hunters-Part-Two-Armageddon-Secrets/dp/1505642582/ref=sr_1_3?dchild=1&qid=1619576065&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-3&text=Samuel+M.+Reynolds)
+[Dino-Hunters Part Two: Armageddon](https://www.amazon.com/Dino-Hunters-Part-Two-Armageddon-Secrets/dp/1505642582/ref=sr_1_3?dchild=1&qid=1619576065&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-3&text=Samuel+M.+Reynolds)
 
-[Dino-Hunters: Ultimate Edition] (https://www.amazon.com/Dino-Hunters-Ultimate-Long-Lost-Secret/dp/1548274917/ref=sr_1_2?dchild=1&qid=1619575958&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-2&text=Samuel+M.+Reynolds)
+[Dino-Hunters: Ultimate Edition](https://www.amazon.com/Dino-Hunters-Ultimate-Long-Lost-Secret/dp/1548274917/ref=sr_1_2?dchild=1&qid=1619575958&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-2&text=Samuel+M.+Reynolds)
 
-[The Best Six Years: Lessons Learned from a Heritage Academy Scholar] (https://www.amazon.com/Best-Six-Years-Lessons-Heritage/dp/1522949380/ref=pd_sbs_1?pd_rd_w=rVha3&pf_rd_p=651d64d1-3c73-45b6-ae09-e545600e3a22&pf_rd_r=A3F4F830ED6VSE1KK23T&pd_rd_r=6bcfd336-7831-472a-92b8-04c70efb6348&pd_rd_wg=q7wEC&pd_rd_i=1522949380&psc=1)
+[The Best Six Years: Lessons Learned from a Heritage Academy Scholar](https://www.amazon.com/Best-Six-Years-Lessons-Heritage/dp/1522949380/ref=pd_sbs_1?pd_rd_w=rVha3&pf_rd_p=651d64d1-3c73-45b6-ae09-e545600e3a22&pf_rd_r=A3F4F830ED6VSE1KK23T&pd_rd_r=6bcfd336-7831-472a-92b8-04c70efb6348&pd_rd_wg=q7wEC&pd_rd_i=1522949380&psc=1)
 
-[Vinyard Among the Evergreens: How Serving the Lord in Washington Changed My Life] (https://www.amazon.com/Vineyard-Among-Evergreens-Serving-Washington/dp/1070707708/ref=sr_1_7?dchild=1&qid=1619576189&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-7&text=Samuel+M.+Reynolds)
+[Vinyard Among the Evergreens: How Serving the Lord in Washington Changed My Life](https://www.amazon.com/Vineyard-Among-Evergreens-Serving-Washington/dp/1070707708/ref=sr_1_7?dchild=1&qid=1619576189&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-7&text=Samuel+M.+Reynolds)
 
 Dino-Hunters Part Three: Deadlock coming soon!
 
