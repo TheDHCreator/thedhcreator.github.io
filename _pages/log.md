@@ -115,7 +115,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-### Week 14: August 2nd, 2021
+#### Week 14: August 2nd, 2021
 
 * **Monday**: 
 * **Tuesday**: 
