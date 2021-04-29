@@ -8,7 +8,7 @@ title: IMMERSE Log
 * **Monday**: Got computer set up and went through all the Linux tutorials.
 * **Tuesday**: Set up VS Code and my Github website, did pushes about what I learned and did yesterday and today, and also installed Vivado.
 * **Wednesday**: Had to reinstall and update Vivado onto my Linux machine. I also cloned the Ice Machine repository, went to Dr. Hawkins' Presentation, my Broader impact meeting, Bootcamp meeting and began the Git tutorials.
-* **Thursday**: 
+* **Thursday**: Worked from home today and tried setting up VS Code access on my PC, finished the Git tutorials, and ... 
 * **Friday**:
 
 ### Week 2: May 3rd, 2021
