@@ -8,7 +8,7 @@ title: IMMERSE Log
 * **Monday**: Got computer set up and went through all the Linux tutorials.
 * **Tuesday**: Set up VS Code and my Github website, did pushes about what I learned and did yesterday and today, and also installed Vivado.
 * **Wednesday**: Had to reinstall and update Vivado onto my Linux machine. I also cloned the Ice Machine repository, went to Dr. Hawkins' Presentation, my Broader impact meeting, Bootcamp meeting and began the Git tutorials.
-* **Thursday**: Worked from home today and tried setting up VS Code access on my PC, did more Git tutorials and installed Vitis/Vivado on my PC.
+* **Thursday**: Worked from home today and tried setting up VS Code access on my PC, did more Git/GitHub tutorials and installed Vitis/Vivado on my PC.
 * **Friday**: Tried working on more errors initalizing Ice Machine, finished the Git tutorials, and sent name and photo as a pull request to the CCL Website. Still working with Jarom on getting Ice Machine repo onto our machines. There are a lot of errors we are running into. Stay tuned.
 
 ### Week 2: May 3rd, 2021
