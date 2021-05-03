@@ -13,7 +13,7 @@ title: IMMERSE Log
 
 ### Week 2: May 3rd, 2021
 
-* **Monday**: 
+* **Monday**: Installed Vivado 2019.2 and 2017.2, went to Bootcamp meeting, 
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
