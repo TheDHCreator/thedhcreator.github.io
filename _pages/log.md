@@ -14,7 +14,7 @@ title: IMMERSE Log
 ### Week 2: May 3rd, 2021
 
 * **Monday**: Installed Vivado 2019.2 and 2017.2, went to Bootcamp meeting, and did more testing to get Ice Machine (now renamed to just BFASST) to work with some basic Verilog designs. We are still running into a few bugs with the Bistream Reversal tool not working properly. I finished out the day making a basic C/C++ program and going through them running in VS Code. I also began reading the modules for Make and CMake.
-* **Tuesday**: 
+* **Tuesday**: Worked from home today.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
