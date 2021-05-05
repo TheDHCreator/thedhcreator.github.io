@@ -15,7 +15,7 @@ title: IMMERSE Log
 
 * **Monday**: Installed Vivado 2019.2 and 2017.2, went to Bootcamp meeting, and did more testing to get Ice Machine (now renamed to just BFASST) to work with some basic Verilog designs. We are still running into a few bugs with the Bistream Reversal tool not working properly. I finished out the day making a basic C/C++ program and going through them running in VS Code. I also began reading the modules for Make and CMake.
 * **Tuesday**: Worked from home today. Had to reinstall Vivado 2020.2 again onto my PC. Spent the day working more with Prof. Goeders and Jarom on BFASST and FASM errors and finished reading through Make and CMake modules.
-* **Wednesday**: 
+* **Wednesday**: Attended Bootcamp meeting,
 * **Thursday**: 
 * **Friday**:
 
