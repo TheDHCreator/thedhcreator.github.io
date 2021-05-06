@@ -16,7 +16,7 @@ title: IMMERSE Log
 * **Monday**: Installed Vivado 2019.2 and 2017.2, went to Bootcamp meeting, and did more testing to get Ice Machine (now renamed to just BFASST) to work with some basic Verilog designs. We are still running into a few bugs with the Bistream Reversal tool not working properly. I finished out the day making a basic C/C++ program and going through them running in VS Code. I also began reading the modules for Make and CMake.
 * **Tuesday**: Worked from home today. Had to reinstall Vivado 2020.2 again onto my PC. Spent the day working more with Prof. Goeders and Jarom on BFASST and FASM errors and finished reading through Make and CMake modules.
 * **Wednesday**: Attended Bootcamp meeting and worked with Jarom on fixing errors in xray.py to hopefully have our first tests run 100%. I also learned about stdout and stderr and Python subprocess modules. We finished out the day changing the config.py file, I fixed some issues with my CAEDM SSH Keys, and Jarom and I got the add4 module to work and be equivalent after running through all the tools! Woo hoo!
-* **Thursday**: 
+* **Thursday**: Worked from home again today. I tested all the basic designs in BFASST and all equivalence checked out except for two designs: one being not equivalent because of a bug and the other producing an error. These errors are likely from bugs in the Fasm2Bels tool we're using.
 * **Friday**:
 
 ### Week 3: May 10th, 2021
