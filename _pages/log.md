@@ -17,7 +17,7 @@ title: IMMERSE Log
 * **Tuesday**: Worked from home today. Had to reinstall Vivado 2020.2 again onto my PC. Spent the day working more with Prof. Goeders and Jarom on BFASST and FASM errors and finished reading through Make and CMake modules.
 * **Wednesday**: Attended Bootcamp meeting and worked with Jarom on fixing errors in xray.py to hopefully have our first tests run 100%. I also learned about stdout and stderr and Python subprocess modules. We finished out the day changing the config.py file, I fixed some issues with my CAEDM SSH Keys, and Jarom and I got the add4 module to work and be equivalent after running through all the tools! Woo hoo!
 * **Thursday**: Worked from home again today. I tested all the basic designs in BFASST and all equivalence checked out except for two designs: one being not equivalent because of a bug and the other producing an error. These errors are likely from bugs in the Fasm2Bels tool we're using. I finished the day working on the Make follow up activity.
-* **Friday**: Attended Bootcamp meeting and made a new yosys_compare branch on the BFASST repo because the Xilinx branch was removed. I also started learning about the Yosys Synthesis Tool, did the CMake follow up activities, and ...
+* **Friday**: Attended Bootcamp meeting and made a new yosys_compare branch on the BFASST repo because the Xilinx branch was removed. I also started learning about the Yosys Synthesis Tool, did the CMake follow up activities, and 
 
 ### Week 3: May 10th, 2021
 
