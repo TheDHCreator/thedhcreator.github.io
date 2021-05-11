@@ -21,7 +21,7 @@ title: IMMERSE Log
 
 ### Week 3: May 10th, 2021
 
-* **Monday**: 
+* **Monday**: Worked from home again today. Read and watched some Python tutorial videos, studied more of Yosys and 
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
