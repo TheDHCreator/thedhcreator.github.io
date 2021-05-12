@@ -17,15 +17,15 @@ title: IMMERSE Log
 * **Tuesday**: Worked from home today. Had to reinstall Vivado 2020.2 again onto my PC. Spent the day working more with Prof. Goeders and Jarom on BFASST and FASM errors and finished reading through Make and CMake modules.
 * **Wednesday**: Attended Bootcamp meeting and worked with Jarom on fixing errors in xray.py to hopefully have our first tests run 100%. I also learned about stdout and stderr and Python subprocess modules. We finished out the day changing the config.py file, I fixed some issues with my CAEDM SSH Keys, and Jarom and I got the add4 module to work and be equivalent after running through all the tools! Woo hoo!
 * **Thursday**: Worked from home again today. I tested all the basic designs in BFASST and all equivalence checked out except for two designs: one being not equivalent because of a bug and the other producing an error. These errors are likely from bugs in the Fasm2Bels tool we're using. I finished the day working on the Make follow up activity.
-* **Friday**: Attended Bootcamp meeting and made a new yosys_compare branch on the BFASST repo because the Xilinx branch was removed. I also started learning about the Yosys Synthesis Tool, did the CMake follow up activities, and got the first use of Yosys almost working.
+* **Friday**: Attended Bootcamp meeting and made a new yosys_compare branch on the BFASST repo because the Xilinx branch was removed. I also started learning about the Yosys Synthesis Tool, worked on the CMake follow up activities, and got the first use of Yosys almost working.
 
 ### Week 3: May 10th, 2021
 
-* **Monday**: Worked from home again today. Read and watched some Python tutorial videos, studied more of Yosys and 
-* **Tuesday**: 
+* **Monday**: Worked from home again today. Read and watched some Python tutorial videos, studied more of Yosys and rewatched the CMake lecture.
+* **Tuesday**: Worked from home again today. I watched the Python Introduction meeting from yesterday that I missed and continued reading and watching more videos about Python. Will start Python application tomorrow when I am back in the Lab.
 * **Wednesday**: 
 * **Thursday**: 
-* **Friday**:
+* **Friday**: Did not work (helped move fiance into our new apartment and left back down to Arizona).
 
 ### Week 4: May 17th, 2021
 
