@@ -23,7 +23,7 @@ title: IMMERSE Log
 
 * **Monday**: Worked from home again today. Read and watched some Python tutorial videos, studied more of Yosys and rewatched the CMake lecture.
 * **Tuesday**: Worked from home again today. I watched the Python Introduction meeting from yesterday that I missed and continued reading and watching more videos about Python. Will start Python application tomorrow when I am back in the Lab.
-* **Wednesday**: 
+* **Wednesday**: Attended the DEEP DIVE Meeting, Student presentations and the Broader Impact meeting for today. I then went to the Bootcamp Meeting where we discussed Python packages, venv, and conda. I spent the rest of the day learning more about Yosys and doing some tests with the commands Jarom whipped up.
 * **Thursday**: 
 * **Friday**: Did not work (helped move fiance into our new apartment and left back down to Arizona).
 
