@@ -24,7 +24,7 @@ title: IMMERSE Log
 * **Monday**: Worked from home again today. Read and watched some Python tutorial videos, studied more of Yosys and rewatched the CMake lecture.
 * **Tuesday**: Worked from home again today. I watched the Python Introduction meeting from yesterday that I missed and continued reading and watching more videos about Python. Will start Python application tomorrow when I am back in the Lab.
 * **Wednesday**: Attended the DEEP DIVE Meeting, Student presentations and the Broader Impact meeting for today. I then went to the Bootcamp Meeting where we discussed Python packages, venv, and conda. I spent the rest of the day learning more about Yosys and doing Yosys equivalence tests for the basic BFASST modules. 
-* **Thursday**: Worked from home again today. I rewatched the python videos from Monday and Wednesday, learned more about the modules we are testing with Yosys and finished final website updates for the rest of the week.
+* **Thursday**: Worked from home again today. I rewatched the Python videos from Monday and Wednesday, learned more about the modules we are testing with Yosys and finished final website updates for the rest of the week.
 * **Friday**: Did not work (helped move fiance into our new apartment and left back down to Arizona). I will be working remotely for the next two weeks in Arizona as I prepare and get married.
 
 ### Week 4: May 17th, 2021
