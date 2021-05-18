@@ -27,10 +27,10 @@ title: IMMERSE Log
 * **Thursday**: Worked from home again today. I rewatched the Python videos from Monday and Wednesday, learned more about the modules we are testing with Yosys and finished final website updates for the rest of the week.
 * **Friday**: Did not work (helped move fiance into our new apartment and left back down to Arizona). I will be working remotely for the next two weeks in Arizona as I prepare and get married.
 
-### Week 4: May 17th, 2021
+### Week 4: May 17th, 2021 (Working from Arizona before my Wedding)
 
-* **Monday**: 
-* **Tuesday**: 
+* **Monday**: Struggled to get VPN to work so I just worked on my Summer Proposal.
+* **Tuesday**: Finished my Technical Work/Broader Impacts Proposal and turned it in on Learning Suite. I also ...
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
