@@ -32,7 +32,7 @@ title: IMMERSE Log
 (Working remotely from Arizona this week and next before my wedding)
 
 * **Monday**: Struggled to get VPN to work so I just worked on my Summer Proposal.
-* **Tuesday**: Finished my Technical Work/Broader Impacts Proposal and turned it in on Learning Suite. I also ...
+* **Tuesday**: Finished my Technical Work/Broader Impacts Proposal and turned it in on Learning Suite. I also tested the Yosys Flow that Jarom designed to automate our modules with Yosys to make sure the ones that were working stayed working. All modules except the 16 and 32-bit adder are all still equivalent, now with the Yosys flow.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
