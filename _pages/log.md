@@ -33,9 +33,9 @@ title: IMMERSE Log
 
 * **Monday**: Struggled to get VPN to work so I just worked on my Summer Proposal.
 * **Tuesday**: Finished my Technical Work/Broader Impacts Proposal and turned it in on Learning Suite. I also tested the Yosys Flow that Jarom designed to automate our modules with Yosys to make sure the ones that were working stayed working. All modules except the 16 and 32-bit adder are all still equivalent, now with the Yosys flow.
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+* **Wednesday**: Read through some of the Symbiflow modules to start brainstorming what I can update for my Broader Impacts Project.
+* **Thursday**: No hours logged.
+* **Friday**: No hours logged.
 
 ### Week 5: May 24th, 2021
 
