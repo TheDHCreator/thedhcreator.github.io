@@ -53,7 +53,7 @@ title: IMMERSE Log
 * **Tuesday**: Answered a few quick work messages for the week.
 * **Wednesday**: Attended the DEEP DIVE Meeting, Student presentations and the Broader Impact meeting for today. Afterwards, I went to the FPGA Track meeting where Dr. Nelson went into great detail about Project XRay and FASM. Tried fixing my .bashrc File so I could work on testing the Edalize repo.
 * **Thursday**: Attended a meeting with Jarom and Dr. Goeders to discuss Edalize, Fusesoc, and the state of the BFASST current bugs.
-* **Friday**: I tested an add4.py module with Edalize after finally fixing my .bashrc file and the test was successful. I also ...
+* **Friday**: I tested an add4.py module with Edalize after finally fixing my .bashrc file and the test was successful. I also caught up on a few Bootcamp Modules and completed Python Packages and Environments, ...
 
 ### Week 6: June 7th, 2021
 
