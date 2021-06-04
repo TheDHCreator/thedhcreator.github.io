@@ -39,19 +39,21 @@ title: IMMERSE Log
 
 ### Week 5: May 24th, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+(Working remotely from Arizona this week as well prior to my wedding)
+
+* **Monday**: All I was able to do was start watching some Bootcamp lectures I had missed out on.
+* **Tuesday**: Attended a meeting over Zoom with Jarom and Dr. Goeders to go over current BFASST bugs. Dr. Goders also introduced us to two new repos that we may want to start looking into more: Edalize and Fusesoc. I continued to watch some missed Bootcamp lectures.
+* **Wednesday**: No hours logged.
+* **Thursday**: No hours logged.
+* **Friday**: No hours logged.
 
 ### Week 5: May 31st, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+* **Monday**: Holiday, no hours logged.
+* **Tuesday**: Answered a few quick work messages for the week.
+* **Wednesday**: Attended the DEEP DIVE Meeting, Student presentations and the Broader Impact meeting for today. Afterwards, I went to the FPGA Track meeting where Dr. Nelson went into great detail about Project XRay and FASM. Tried fixing my .bashrc File so I could work on testing the Edalize repo.
+* **Thursday**: Attended a meeting with Jarom and Dr. Goeders to discuss Edalize, Fusesoc, and the state of the BFASST current bugs.
+* **Friday**: I tested an add4.py module with Edalize after finally fixing my .bashrc file and the test was successful. I also ...
 
 ### Week 6: June 7th, 2021
 
