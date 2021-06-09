@@ -58,8 +58,8 @@ title: IMMERSE Log
 ### Week 6: June 7th, 2021
 
 * **Monday**: I finished Python Packages II and started working on my CSV Parser. After going to the FPGA Track Meeting, I kept working on my CSV Parser and began looking at Pytest.
-* **Tuesday**: 
-* **Wednesday**: 
+* **Tuesday**: I continued working on my CSV Parser and continued watching videos about Pytest and the Github CI.
+* **Wednesday**: Today, I attended the DEEP DIVE Meeting and Student presentations. There was no Broader Impact or FPGA Bootcamp meetings today. After the meetings ended, I worked from home the rest of the day and ...
 * **Thursday**: 
 * **Friday**:
 
