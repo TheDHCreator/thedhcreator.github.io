@@ -60,21 +60,25 @@ title: IMMERSE Log
 * **Monday**: I finished Python Packages II and started working on my CSV Parser. After going to the FPGA Track Meeting, I kept working on my CSV Parser and began looking at Pytest.
 * **Tuesday**: I continued working on my CSV Parser and continued watching videos about Pytest and the Github CI.
 * **Wednesday**: Today, I attended the DEEP DIVE Meeting and Student presentations. There was no Broader Impact or FPGA Bootcamp meetings today. After the meetings ended, I worked from home the rest of the day and ...
-* **Thursday**: 
-* **Friday**:
+* **Thursday**: Worked from home again today. I researched more about the CSV Parser and kept watching the last few lecture videos.
+* **Friday**: There was no FPGA Bootcamp meeting today. I tested one of the bugs that Prof. Goeders fixed and now the 16-bit and 32-bit adders just show Not Equivalent. I finished watching all remaining lectures that I missed but I still haven't been able to finish my CSV Parser. I have been struggling with that a lot. I hope to finish it when I return from my honeymoon.
 
 ### Week 7: June 14th, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+(On honeymoon until June 22nd)
+
+* **Monday**: No hours logged.
+* **Tuesday**: No hours logged.
+* **Wednesday**: No hours logged.
+* **Thursday**: No hours logged.
+* **Friday**: No hours logged.
 
 ### Week 8: June 21st, 2021
 
-* **Monday**: 
-* **Tuesday**: 
+(on honeymoon until June 22nd)
+
+* **Monday**: No hours logged.
+* **Tuesday**: No hours logged.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
