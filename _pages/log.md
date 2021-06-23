@@ -79,7 +79,7 @@ title: IMMERSE Log
 
 * **Monday**: No hours logged.
 * **Tuesday**: No hours logged.
-* **Wednesday**: 
+* **Wednesday**: Attended the DEEP DIVE Meeting, Student presentations and Broader Impact Meeting. After that, I attended the last (for now) FPGA Bootcamp meeting where Professor Goeders discussed the many cool facets of Vitis in converting C code to Verilog hardware. I did some pulls into BFASST to see what was done while I was gone on honeymoon and I contacted someone to see if I can get a position to help on Chip Camp next week. 
 * **Thursday**: 
 * **Friday**:
 
