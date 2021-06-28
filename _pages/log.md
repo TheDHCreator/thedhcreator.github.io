@@ -84,7 +84,7 @@ title: IMMERSE Log
 * **Friday**: No hours logged.
 ### Week 9: June 28th, 2021
 
-* **Monday**: 
+* **Monday**: Started the morning by making small logistical changes to the SymbiFlow pages I'm in charge of for my Broader Impacts Project (setting them up organization-wise so it will be easier to update later). Then, I ...
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
