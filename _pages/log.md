@@ -59,7 +59,7 @@ title: IMMERSE Log
 
 * **Monday**: I finished Python Packages II and started working on my CSV Parser. After going to the FPGA Track Meeting, I kept working on my CSV Parser and began looking at Pytest.
 * **Tuesday**: I continued working on my CSV Parser and continued watching videos about Pytest and the Github CI.
-* **Wednesday**: Today, I attended the DEEP DIVE Meeting and Student presentations. There was no Broader Impact or FPGA Bootcamp meetings today. After the meetings ended, I worked from home the rest of the day and ...
+* **Wednesday**: Today, I attended the DEEP DIVE Meeting and Student presentations. There was no Broader Impact or FPGA Bootcamp meetings today. After the meetings ended, I worked from home the rest of the day and caught up on a few things I was falling behind on.
 * **Thursday**: Worked from home again today. I researched more about the CSV Parser and kept watching the last few lecture videos.
 * **Friday**: There was no FPGA Bootcamp meeting today. I tested one of the bugs that Prof. Goeders fixed and now the 16-bit and 32-bit adders just show Not Equivalent. I finished watching all remaining lectures that I missed but I still haven't been able to finish my CSV Parser. I have been struggling with that a lot. I hope to finish it when I return from my honeymoon.
 
@@ -87,7 +87,7 @@ title: IMMERSE Log
 * **Monday**: Started the morning by making small logistical changes to the SymbiFlow pages I'm in charge of for my Broader Impacts Project (setting them up organization-wise so it will be easier to update later). Met with Professor Goeders and Jarom to discuss the current state of our project. Kept learning about Project X-Ray and the other pages.
 * **Tuesday**: Worked on the Circuits Module for Chip Camp all morning and afternoon. Started watching a few of the FPGA Track videos I missed while on honeymoon.
 * **Wednesday**: Worked from home today. Continued looking over all my Symbiflow modules to brainstorm changes for Broader Impacts Project. I also started reviewing the recent changes in the BFAAST branches.
-* **Thursday**: Started the day by inspecting changes in the PUDC branch of BFASST and I learned about what pull requests are currently active with SymbiFlow. 
+* **Thursday**: Started the day by inspecting changes in the PUDC branch of BFASST and I learned about what pull requests are currently active with SymbiFlow. I worked at home for the rest of the day catching up on FPGA videos and making a few more changes to my pages.
 * **Friday**:
 
 ### Week 10: July 5th, 2021
