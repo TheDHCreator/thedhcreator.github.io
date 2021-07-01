@@ -86,7 +86,7 @@ title: IMMERSE Log
 
 * **Monday**: Started the morning by making small logistical changes to the SymbiFlow pages I'm in charge of for my Broader Impacts Project (setting them up organization-wise so it will be easier to update later). Met with Professor Goeders and Jarom to discuss the current state of our project. Kept learning about Project X-Ray and the other pages.
 * **Tuesday**: Worked on the Circuits Module for Chip Camp all morning and afternoon. Started watching a few of the FPGA Track videos I missed while on honeymoon.
-* **Wednesday**: 
+* **Wednesday**: Worked from home today. Continued looking over all my Symbiflow modules to brainstorm changes for Broader Impacts Project. I also started reviewing the recent changes in the BFAAST branches.
 * **Thursday**: 
 * **Friday**:
 
