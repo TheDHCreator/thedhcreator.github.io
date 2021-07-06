@@ -88,11 +88,11 @@ title: IMMERSE Log
 * **Tuesday**: Worked on the Circuits Module for Chip Camp all morning and afternoon. Started watching a few of the FPGA Track videos I missed while on honeymoon.
 * **Wednesday**: Worked from home today. Continued looking over all my Symbiflow modules to brainstorm changes for Broader Impacts Project. I also started reviewing the recent changes in the BFAAST branches.
 * **Thursday**: Started the day by inspecting changes in the PUDC branch of BFASST and I learned about what pull requests are currently active with SymbiFlow. I worked at home for the rest of the day catching up on FPGA videos and making a few more changes to my pages.
-* **Friday**: Worked from home today. Was finally able to finish my CSV Parser with the help of Jessa Locey. Still need to add Sphinx documentation to it but will do that next week. I wrote down my plans for all my SymbiFlow pages and pushed them to the Bootcamp Website to know what I plan to update on them over the next several weeks. Planning on working with Jarom for a PUDC test so the current SymbiFlow pull requests can hopefully go through next week. Will also start preparing Presentation slides next week.
+* **Friday**: Worked from home today. Was finally able to finish my CSV Parser over Zoom with the help of Jessa Locey. Still need to add Sphinx documentation to it but will do that next week. I wrote down my plans for all my SymbiFlow pages and pushed them to the Bootcamp Website to know what I plan to update on them over the next several weeks. Planning on working with Jarom for a PUDC test so the current SymbiFlow pull requests can hopefully go through next week. Will also start preparing Presentation slides next week.
 
 ### Week 10: July 5th, 2021
 
-* **Monday**: 
+* **Monday**: Holiday. No hours logged.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
