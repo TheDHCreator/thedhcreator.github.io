@@ -93,7 +93,7 @@ title: IMMERSE Log
 ### Week 10: July 5th, 2021
 
 * **Monday**: Holiday. No hours logged.
-* **Tuesday**: 
+* **Tuesday**: Worked together with Jarom for a while today on making a PUDC test for Fasm2Bels. Made .xdc and .pcf files for a basic AND2 module. Will have to finish tomorrow so the test can be added to the current PUDC Fix pull request for SymbiFlow.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
