@@ -96,7 +96,7 @@ title: IMMERSE Log
 * **Tuesday**: Worked together with Jarom for a while today on making a PUDC test for Fasm2Bels. Made .xdc and .pcf files for a basic AND2 module. Will have to finish tomorrow so the test can be added to the current PUDC Fix pull request for SymbiFlow.
 * **Wednesday**: Met with Jarom and Professor Goeders to touch base on the status of current projects. After our meeting, Jarom and I finished the PUDC test and I pushed it to the Fasm2Bels pudc_fix branch. If approved, it will close Pull Request #63 in the SymbiFlow Fasm2Bels repo. Then, I worked from home the rest of the day making more modifications to the Project X-Ray page. Didn't want to push it until I had it more organized so I will push it tomorrow.
 * **Thursday**: Worked from home today and was dealing with the current PUDC pull request on Fasm2Bels. Professor Goeders helped me rebase the repository but the golden files generated are still not passing the CI tests. Worked a little more also on Project X-Ray page. Hoping to push a finalized version by end of day tomorrow.
-* **Friday**:
+* **Friday**: Today was incredible! I worked on my final edits for the Project X-Ray page until Jarom arrived, and he helped me figure out why the test.sh still wasn't passing for PUDC. It turned out to be that the carry4 golden Verilog and XDC were outdated and I had to many newlines at the end of the PUDC golden files. Once those were corrected, I pushed everything and Workflow #69 on the BYU Fasm2Bels repo declared both CI tests passed! Just waiting now for either Tim or Maciej to take a look, approve what I pushed and this pull request and bug will finally be closed. 
 
 ### Week 11: July 12th, 2021
 
