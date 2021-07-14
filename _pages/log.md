@@ -101,7 +101,7 @@ title: IMMERSE Log
 ### Week 11: July 12th, 2021
 
 * **Monday**: Worked from home today. All I did was continue working on my presentation slides (my presentation is next week on the 21st). They are 2/3 of the way done now. I read more into FASM since that is the page I will be working on next after I finish the Project X-Ray page tomorrow.
-* **Tuesday**: This morning I attended the BYU/SymbiFlow meeting where we met with Tim and others in charge of SymbiFlow, introduced ourselves and gave brief introductions on the projects we are working on and how they involve SymbiFlow. It was a really cool meeting to attend! After that, I went to the lab and finished my final changes to the Project X-Ray page. The next page I will make improvements on for my Broader Impacts is the FASM page. Then, I ... 
+* **Tuesday**: This morning I attended the BYU/SymbiFlow meeting where we met with Tim and others in charge of SymbiFlow, introduced ourselves and gave brief introductions on the projects we are working on and how they involve SymbiFlow. It was a really cool meeting to attend! After that, I went to the lab and finished my final changes to the Project X-Ray page. The next page I will make improvements on for my Broader Impacts is the FASM page. Then, I finished my Technical Presentation slides, worked from home the rest of the day, got feedback from Professor Goeders on my slides, and added and pushed three and2 designs to the BFASST Basic Designs directory. We now have twelve functional, passing and equivalent designs.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
