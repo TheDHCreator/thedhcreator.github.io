@@ -108,7 +108,7 @@ title: IMMERSE Log
 
 ### Week 12: July 19th, 2021
 
-* **Monday**: 
+* **Monday**: I only worked for a short time from home today to rehearse my presentation for Wednesday with my wife.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
