@@ -109,8 +109,8 @@ title: IMMERSE Log
 ### Week 12: July 19th, 2021
 
 * **Monday**: I only worked for a short time from home today to rehearse my presentation for Wednesday with my wife.
-* **Tuesday**: 
-* **Wednesday**: 
+* **Tuesday**: Kept working on BRAM and ROM designs. I think the AND2 designs that I removed somehow weren't removed so I need to redo that again. Still unsuccessful in figuring out why they currently aren't equivalent.
+* **Wednesday**: Did final preparations for my presentation this morning, attended the final DEEP DIVE Meeting, and attended Student Presentations. I gave my presentation about BFASST second, was really nervous, and my slides accidentally got misformatted when they went up on the projector. I slightly panicked but still managed to get through it. Afterwards, I ...
 * **Thursday**: 
 * **Friday**:
 
