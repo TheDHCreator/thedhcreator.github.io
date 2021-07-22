@@ -110,9 +110,9 @@ title: IMMERSE Log
 
 * **Monday**: I only worked for a short time from home today to rehearse my presentation for Wednesday with my wife.
 * **Tuesday**: Kept working on BRAM and ROM designs. I think the AND2 designs that I removed somehow weren't removed so I need to redo that again. Still unsuccessful in figuring out why they currently aren't equivalent.
-* **Wednesday**: Did final preparations for my presentation this morning, attended the final DEEP DIVE Meeting, and attended Student Presentations. I gave my presentation about BFASST second, was really nervous, and my slides accidentally got misformatted when they went up on the projector. I slightly panicked but still managed to get through it. Afterwards, I ...
-* **Thursday**: 
-* **Friday**:
+* **Wednesday**: Did final preparations for my presentation this morning, attended the final DEEP DIVE Meeting, and attended Student Presentations. I gave my presentation about BFASST second, was really nervous, and my slides accidentally got misformatted when they went up on the projector. I slightly panicked but still managed to get through it. Afterwards, I went home and worked remotely for the rest of the day learning more about Conformal and Yosys flows and if they were causing the BRAM and ROM designs to be not equivalent. They weren't. More digging to come.
+* **Thursday**: Worked from home today to do more digging on BRAM/ROM designs. The pull requests to add them (though currently broken) into BFASST were merged. Professor Goeders recommended that I look through the conformal logs to figure out what was wrong and to compare all the primitives in the regular and reversed netlists. I looked and they all appear to be the same, but the reversed on has more. I hope to get to the bottom of this issue soon. Wasn't able to work on the FASM page as I had hoped for this week because I was stressing about my Technical Presentation. I am glad that's done. Since I didn't do the FASM page, I will do the FASM and bits2fasm pages both next week to make up for lost time. FASM 2 BELs and symbiflow-examples will be done in the coming weeks but before the Summer is over. Taking a quick weekend trip to go see family and wife's family, so I will not be working any hours tomorrow. I will be back on Monday afternoon and should be able to work a few hours that day. Will be back in the lab on Tuesday.
+* **Friday**: No hours logged.
 
 ### Week 13: July 26th, 2021
 
