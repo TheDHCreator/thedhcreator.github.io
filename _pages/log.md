@@ -116,8 +116,8 @@ title: IMMERSE Log
 
 ### Week 13: July 26th, 2021
 
-* **Monday**: 
-* **Tuesday**: 
+* **Monday**: Just answered a few quick work messages while on the road.
+* **Tuesday**: Attended the BYU/SymbiFlow meeting this morning where we gave updates on all our SymbiFlow related projects to some of the SymbiFlow owners. Jarom and I told them about the adding of more designs and about a new equivalence checking pull request he is working on. After that, I worked a little more on deciphering what's wrong with the BRAM/ROM designs and then had a meeting with Jarom and Professor Goeders on Zoom to discuss how our projects are coming along. We both shared our screens and we found out there is a black box module inside the Vivado generated netlist for the BRAM Single Port design (the one I'm tackling first of the bunch). I spent the rest of the day looking through the whole file to find out what's causing these errors.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
