@@ -124,9 +124,9 @@ title: IMMERSE Log
 
 ### Week 14: August 2nd, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
+* **Monday**: Jarom and I were planning on having a meeting with Professor Goeders through Zoom today to discuss current developments, but our assignments didn't move forward much so it was cancelled. Professor Goeders suggested that I run the Conformal GUI so I could better easily visualize where exactly the blackbox is that's giving me issues. I began researching that today. I also looked at the SymbiFlow and fasm2bels pages again and realized that they are all culminating together, each module building on its predecessor. I may need to rethink my approach when doing these final pages so that they all flow together more smoothly.
+* **Tuesday**: Worked only a few hours from home today trying to get the Conformal GUI to work and learning about .do files.
+* **Wednesday**: Went to the last of the Student Presentations for our track. There was no Broader Impacts meeting today. I am still working on the FASM page follow-up activity and trying to get the Conformal GUI to work so I can find where the blackbox is in the BRAM design that's currently "not equivalent." Since the FASM and bit2fasm pages are so closely tied together, I may turn my attention to fasm2bels and SymbiFlow examples and work on those next and save FASM/bit2fasm for last. I also went to the Digital Lab to find out if they had the Cadence Conformal GUI set up on their machines and I was unsuccessful. After returning home, I ...
 * **Thursday**: 
 * **Friday**:
 
