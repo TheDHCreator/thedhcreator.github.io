@@ -132,8 +132,9 @@ title: IMMERSE Log
 
 ### Week 15: August 9th, 2021
 
-* **Monday**: 
-* **Tuesday**: 
+* **Saturday**: Answered a few quick messages about the upcoming week and read through more of the bit2fasm page.
+* **Monday**: No hours logged.
+* **Tuesday**: No hours logged.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
