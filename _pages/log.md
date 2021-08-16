@@ -135,13 +135,13 @@ title: IMMERSE Log
 * **Saturday**: Answered a few quick messages about the upcoming week and read through more of the bit2fasm page.
 * **Monday**: No hours logged.
 * **Tuesday**: No hours logged.
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+* **Wednesday**: I found another (simpler) BRAM design that is checking out as equivalent through the BFASST tools, so I may see if I can find another ROM one too. There were no meetings today (those are done for the summer). I worked the rest of the day from home on trying to set up the GUI on my home PC, reading more about black boxes and running BFASST tests.
+* **Thursday**: I spent a majority of my time today working from home and helping one of Dr. Nelson's students, Jason Prescott, with installing Project X-Ray and getting it's databases and parts to work. I also talked with him about Fasm2Bels and did some experiments for what the Fasm2Bels activity can become. 
+* **Friday**: Worked from home again today on the Fasm2Bels follow up activity. I won't push any changes on the activity to the page until I get my version completely working. For next week, there are a few things I need to get done: I need to finish the bit2fasm, fasm2bels, and symbiflow-examples Bootcamp pages and I have to get my 2-page summary of my summer work done by Wednesday. I won't write that until I get get the SymbiFlow pages done. Those will be my first priority, then I will continue to get those BRAM/ROM designs working.
 
 ### Week 16: August 16th, 2021
 
-* **Monday**: 
+* **Monday**: I met with Professor Goeders this morning to talk about the BRAM/ROM designs, the Cadence Conformal GUI and the remaining SymbiFlow pages. Jarom is still gone for another week so I am also gonna look into what he was working on (getting Yosys from Conda). Professor Goeders helped me look into the GUI a little more with the RAMB18E1 black box. I need to determine why that one is the black box. I spent the rest of the day ...
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
