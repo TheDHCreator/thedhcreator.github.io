@@ -154,11 +154,3 @@ title: IMMERSE Log
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
-
-### Week 18: August 30th, 2021
-
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
