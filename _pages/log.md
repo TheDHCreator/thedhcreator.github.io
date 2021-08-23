@@ -144,8 +144,8 @@ title: IMMERSE Log
 * **Monday**: I met with Professor Goeders this morning to talk about the BRAM/ROM designs, the Cadence Conformal GUI and the remaining SymbiFlow pages. Jarom is still gone for another week so I am also gonna look into what he was working on (getting Yosys from Conda). Professor Goeders helped me look into the GUI a little more with the RAMB18E1 black box. I need to determine why that one is the black box. I spent the rest of the day working from home trying to get fasm2bels to work. Turns out there are more issues with trying to run its test-py script than we orginally thought. Will crack on it more tomorrow.
 * **Tuesday**: Kept working from home today on getting fasm2bels to work first before doing any more work on the follow-up activities any further. Not a whole lot of success. I may not finish the fasm2bels page in time. I'll at least get symbiflow-examples and bit2fasm finalized and sent out before I submit my Summer Work Summary tomorrow. 
 * **Wednesday**: Worked from home today writing up my Summer Work Summary and finishing the symbiflow-examples and bit2fasm pages. I couldn't finish fasm2bels like I had wanted today because there are still problems initializing the repository because either capnproto_java or RapidWright aren't connecting together properly or whatever else. I am still working on getting that squared off with Professor Goeders help. After getting some link problems settled, I submitted the finalized pages, finished my Summer Work Summary and uploaded it to Learning Suite. Jobs on deck for the next few days is investigating the Yosys inside conda, fixing the hopefully-not-so-broken fasm2bels, and maybe finishing its page as well. 
-* **Thursday**: 
-* **Friday**:
+* **Thursday**: No hours logged.    
+* **Friday**: No hours logged.
 
 ### Week 17: August 23rd, 2021
 
