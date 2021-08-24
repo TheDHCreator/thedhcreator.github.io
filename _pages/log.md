@@ -150,7 +150,7 @@ title: IMMERSE Log
 ### Week 17: August 23rd, 2021
 
 * **Monday**: Met with Professor Goeders and Jarom for our last meeting of the summer to discuss plans for the Fall, the current state of what we're working on, and making a few adjustments. I need to get fasm2bels working (and possibly send updates to SymbiFlow for their README.md file). I blew up what I was currently working on and tried using SymbiFlow's version since the BYU fork is many many commits behind. Spend the rest of the day working from home trying to get fasm2bels to work. Will try more tomorrow.
-* **Tuesday**: 
+* **Tuesday**: I worked from home today but came forth with great success! I finally discovered the FASM2BELs problem: the paths were correct in the github workflow, but because I hadn't sourced the test.sh file it wasn't working. FASM2BELs finally ran test-py!! WOOHOO!!! I spent the rest of my day updating the official FASM2BELs README.md file with installation instructions (these will be used when I finish the fasm2bels module page) and made a pull request with those changes. It passed all the CI tests! I then went to the ECEn Ambassador meeting (which was offered to IMMERSE students and I'm so glad I got in!). A very good day, need to finish fasm2bels page by end of the week as my last part of my summer work.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
