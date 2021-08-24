@@ -149,7 +149,7 @@ title: IMMERSE Log
 
 ### Week 17: August 23rd, 2021
 
-* **Monday**: 
+* **Monday**: Met with Professor Goeders and Jarom for our last meeting of the summer to discuss plans for the Fall, the current state of what we're working on, and making a few adjustments. I need to get fasm2bels working (and possibly send updates to SymbiFlow for their README.md file). I blew up what I was currently working on and tried using SymbiFlow's version since the BYU fork is many many commits behind. Spend the rest of the day working from home trying to get fasm2bels to work. Will try more tomorrow.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
