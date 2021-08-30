@@ -154,3 +154,81 @@ title: IMMERSE Log
 * **Wednesday**: Today I spent some time filming with students for the IMMERSE promo videos. It was a really exciting feat! I cannot wait for the video to go public. Then, they came with me to the lab to get some B-Roll footage of me working on the BFASST project. I really think this will help students get more comfortable with projects like ours, including all other projects students are working on. I spent the rest of the day reviewing the comments of Tim and another SymbiFlow member and planning out how I am going to finish the fasm2bels page by Friday.
 * **Thursday**: Kept working on fasm2bels issues, put the more in-depth install instructions on the fasm2bels Bootcamp page. I will see if I can bring the BYU/fasm2bels up to speed with SymbiFlow/fasm2bels tomorrow. 
 * **Friday**: I synced up BYU/fasm2bels with SymbiFlow/fasm2bels as best I could, but I think I may have broken it since there may be a header missing. I got the first half of the final fasm2bels page pushed because I am not confident yet in the follow up activity I was planning. I can get fasm2bels to run, but I don't know if there should be more outputting in the terminal or not. I am a bit rushed for time today because I am helping the ECEn Ambassadors with NSO this afternoon and then have plans for the evening. I will do my very best to get everything related to fasm2bels fixed by tomorrow or Monday and have the bootcamp page finalized/merged by Monday. I'm sorry I didn't get it done like I thought I could by this afternoon.
+
+
+## FALL 2021 SEMESTER BEGINS
+
+### Week 1: August 30th, 2021
+
+* **Friday**:
+
+### Week 2: September 6th, 2021
+
+* **Friday**:
+
+### Week 3: September 13th, 2021
+
+* **Friday**:
+
+### Week 4: September 20th, 2021
+
+* **Friday**:
+
+### Week 5: September 27th, 2021
+
+* **Friday**:
+
+### Week 6: October 4th, 2021
+
+* **Friday**:
+
+### Week 7: October 11th, 2021
+
+* **Friday**:
+
+### Week 8: October 18th, 2021
+
+* **Friday**:
+
+### Week 9: October 25th, 2021
+
+* **Friday**:
+
+### Week 10: November 1st, 2021
+
+* **Friday**:
+
+### Week 11: November 8th, 2021
+
+* **Friday**:
+
+### Week 12: November 15th, 2021
+
+* **Friday**:
+
+### Week 13: November 22nd, 2021
+
+* **Friday**:
+
+### Week 14: November 29th, 2021
+
+* **Friday**:
+
+### Week 15: December 6th, 2021
+
+* **Friday**:
+
+### Week 16: December 13th, 2021
+
+* **Friday**:
+
+### Week 17: December 20th, 2021
+
+* **Friday**:
+
+### Week 18: December 27th, 2021
+
+* **Friday**:
+
+
+## END OF 2021
