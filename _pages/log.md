@@ -164,7 +164,7 @@ title: IMMERSE Log
 
 ### Week 2: September 6th, 2021
 
-* **Friday**:
+* **Friday**: Got the fasm2bels page finally done this week (there were a lot of great updates done by Professor Nelson and Professor Goeders) and now there is a fasm2bels folder attached to the bootcamp website. Met with Professor Goeders on Thursday to catch up on what's going on (will meet with him again next week when Jarom can join us) and I did fasm2bels tests on designs from the FASM bootcamp page. Going to work on the BRAM/ROM designs next week.
 
 ### Week 3: September 13th, 2021
 
