@@ -168,7 +168,7 @@ title: IMMERSE Log
 
 ### Week 3: September 13th, 2021
 
-* **Friday**:
+* **Friday**: Had to go back to the basics to figure out the issues BRAM/ROM were initially giving (spent so long on fasm2bels I kinda forgot all the issues). There are still unexplained black boxes. Had a meeting on Thursday with Professor Goeders and Jarom to discuss the current state of our projects. I haven't been able to figure out how to use the Xilinx files that contain the RAMB18E1 code and put that into cells_sim.v. I am going to keep working on this. Hope that both designs can be equivalent and fully working on BFASST by the end of the week next week. Much more hopeful good work to come.
 
 ### Week 4: September 20th, 2021
 
