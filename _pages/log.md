@@ -172,7 +172,7 @@ title: IMMERSE Log
 
 ### Week 4: September 20th, 2021
 
-* **Friday**:
+* **Friday**: I thought I would get more done this week but the black box issue continues. I finally routed the Xilinx RAMB18E1 file along with the cells_sim.v and it was no good. I will give it one more go on Monday and actually copy the contents of that file into cells_sim.v and see what happens at that point. Other than that, the IMMERSE dinner was Thursday night and it was a great more casual time with everyone. I will prioritize doing more time in the lab next week as opposed to at home.
 
 ### Week 5: September 27th, 2021
 
