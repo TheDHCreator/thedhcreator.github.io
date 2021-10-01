@@ -176,7 +176,7 @@ title: IMMERSE Log
 
 ### Week 5: September 27th, 2021
 
-* **Friday**:
+* **Friday**: The work of the BRAM/ROM designs continues. I worked more on it this week with the Cadence Conformal GUI, feeding in different versions of cells_sim.v and including the corresponding Xilinx BRAM file. Currently, the RAMB18E1 definition in cells_sim.v is removed and the Xilinx file is there to take it's place but now it is complaining of multiple clocks in the design and incomplete verification. The long process continues. I am also going to be reviewing a paper for Dr. Goeders hopefully during some lulls in Conference this weekend. I want these designs working and I want them soon. More updates to come next week.
 
 ### Week 6: October 4th, 2021
 
