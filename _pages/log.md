@@ -180,7 +180,7 @@ title: IMMERSE Log
 
 ### Week 6: October 4th, 2021
 
-* **Friday**:
+* **Friday**: This week was a good week. The Work of BRAM/ROM designs continues but there is progress being made. I am going to try and make my own definition of the RAMB18E1 to simplify it and feed it in to the cells_sim.v to see if that can take care of the black box and help with finally getting the designs to be equivalent. We also had our first CCL meeting in a while on Thursday for a grad student presentation. Our next meeting will be every other Wednesday. I will try my best to get these designs finally finished this week so we can work more on other facets of the BFASST project.
 
 ### Week 7: October 11th, 2021
 
