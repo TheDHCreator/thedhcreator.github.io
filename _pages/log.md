@@ -184,7 +184,7 @@ title: IMMERSE Log
 
 ### Week 7: October 11th, 2021
 
-* **Friday**:
+* **Friday**: Another week gone by, a good one, but a quick one. The BRAM/ROM problems continue, but it's not the problems I was expecting. After doing some inspection on the impl files with Dr. Goeders, it was determined that there may be a problem with Vivado instead of Conformal where things are being assigned to constants instead of the proper memory addreses. That problem will need to be looked into more next week. We had our biweekly meeting with Dr. Goeders on Wednesday and discussed the current state of our projects. It was a very good and informative session. Things in the semester are getting crazier so it's harder to find the time to do the work, but it's not impossible. I couldn't attend the CCL meeting on Thursday due to committments with my wife. Hoping I can find this Vivado issue and fix it next week to get these designs one step closer to equivalency.
 
 ### Week 8: October 18th, 2021
 
