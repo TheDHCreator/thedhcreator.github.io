@@ -188,7 +188,7 @@ title: IMMERSE Log
 
 ### Week 8: October 18th, 2021
 
-* **Friday**:
+* **Friday**: These weeks seem to be getting shorter and shorter. I did what I could this week to run these designs I'm having issues with through Vivado. Since my issues seem to be solely with Vivado now, I need to make sure that after going through Vivado that I run it with the right part, then run bit2fasm, then fasm2bels and then check for equivalency. I will be doing more of what I can on this next week. The CCL Meeting yesterday went very well. I am glad that we are still having them. And I'm thankful to still have this job. It was a long day today, and a long week. Things should get better, and these designs should hopefully be dealt with soon enough.
 
 ### Week 9: October 25th, 2021
 
