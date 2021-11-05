@@ -192,11 +192,11 @@ title: IMMERSE Log
 
 ### Week 9: October 25th, 2021
 
-* **Friday**:
+* **Friday**: EUREKA!!! I finally was able to make headway on these designs for the first time since Summer! I kept looking for designs that could satisfy our BRAM cases for BFASST, but I was only finding ones that dealt with BRAM18. I found some designs that dealt with BRAM32s and they passed with Conformal! After feeding in the Xilinx files to see if they would be equivalent in Yosys they came out as such! I completely spaced the CCL meeting but I will go next week. Going to try and edit the Yosys script next week so that both of the new designs work just as well in Yosys as Conformal.
 
 ### Week 10: November 1st, 2021
 
-* **Friday**:
+* **Friday**: This week was all over the place. I wasn't able to get as much done on working on the Yosys as I wanted to. Classes were crazy and I could not for the life of me figure out how to edit the Yosys script. The script for testing things in Yosys on my CAEDM machine is much simpler and I understand that. I will have to look into it more next week. I went to the CCL Meeting and it was very good. Crazy week all around but progress is still achievable.
 
 ### Week 11: November 8th, 2021
 
