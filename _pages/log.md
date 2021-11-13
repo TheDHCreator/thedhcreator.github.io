@@ -200,7 +200,7 @@ title: IMMERSE Log
 
 ### Week 11: November 8th, 2021
 
-* **Friday**:
+* **Friday**: Another week has gone by and a lot of failed tests have shown me ways on how to NOT get the Yosys side of things working for the BRAM designs. I tried messing with the Yosys.py script and feed in the Xilinx definition files, tried replacing the definitions in cells_sim with the Xilinx ones, and still to no avail. My plan next week may very well be to make the simplest BRAM design I can and only test it in Yosys until I have it working. Then, I may be able to find why the bram_sp has 4 unproven cells and the bram_dp has 8. Time for another weekend. Freshman Ambassador/Professor Meet and Greet next week!!
 
 ### Week 12: November 15th, 2021
 
