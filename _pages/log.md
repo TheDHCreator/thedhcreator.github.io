@@ -204,7 +204,7 @@ title: IMMERSE Log
 
 ### Week 12: November 15th, 2021
 
-* **Friday**:
+* **Friday**: This week was kind of a bust. I wanted to work on the yosys part of the BRAM files, but the only time I did was failed test after failed test after failed test. I am completely stumped as to if I should be changing the definitions in cells_sim to simpler ones, or the Xilinx ones, or starting with a new base simple design all together to see if I can address the problem. I think both designs face the same problem, just on a different scale. The Meet and Greet went very well and I think it will be come a tradition that the Ambassadors will host every year. School is also getting crazier so I don't know how productive I am going to be going forward for the next few weeks. I will try my best.
 
 ### Week 13: November 22nd, 2021
 
