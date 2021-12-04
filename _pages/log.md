@@ -208,11 +208,11 @@ title: IMMERSE Log
 
 ### Week 13: November 22nd, 2021
 
-* **Friday**:
+* **Friday**: The downward trend of work versus the upward trend of how much classwork I need to complete before the end of the semester is staggering. Because of the Thanksgiving Holiday I did not get very much work in this week. Any meetings were cancelled for the week except the SymbiFlow one, but there was nothing new to report. Hoping next week will be better.
 
 ### Week 14: November 29th, 2021
 
-* **Friday**:
+* **Friday**: This week was really similar to last week. I had to spend a lot of time on school work, and as a result, did not get to do very much more testing on the Yosys part of the BRAM designs. I feel like I've tried just about everything and I'm continuing to run into walls of no good results. I keep trying until I get this.
 
 ### Week 15: December 6th, 2021
 
