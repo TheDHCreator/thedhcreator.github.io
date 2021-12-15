@@ -216,7 +216,7 @@ title: IMMERSE Log
 
 ### Week 15: December 6th, 2021
 
-* **Friday**:
+* **Friday**: I only was able to put in a very little amount of hours this week because I was finishing my last school projects. Going to ask Dr. Goeders for recommendations on how to proceed at next week's meeting because this week it was cancelled. I'm going to get back into the groove but I feel bad for not working more the last few weeks. I will do better.
 
 ### Week 16: December 13th, 2021
 
