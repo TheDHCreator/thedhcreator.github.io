@@ -220,15 +220,14 @@ title: IMMERSE Log
 
 ### Week 16: December 13th, 2021
 
-* **Friday**:
+* **Friday**: Finals have come and gone, and unfortunately, Jarom will soon be gone as well. This leaves me as the only one for this project until the summer time. We were able to have one more meeting with Dr. Goeders before we left and Jarom talked about his progress with the Yoysys equiv and his communications with the Yosys people. I now have a better idea of how to attack my problem and will do what I can next week.
 
 ### Week 17: December 20th, 2021
 
-* **Friday**:
+* **Friday**: Merry Christmas Eve! My process for working on this Yosys issue will be the following: I will run Yosys manually in a terminal and paste all the commands from the yosys.py script for one of the designs and follow each and every step until it breaks. I honestly don't know why I didn't go about it this way until now. I wasn't able to make as much progress as I wanted to since it is the week of Christmas, and I will be taking a small vacation next week with my wife to visit some relatives. Once the New Year and semester starts, it's gonna be a whole nother different ball game with classes and with this project. I hope I will be able to do it all and I am going to get this problem fixed one way or another and take over Jarom's work in the process. Merry Christmas to all, and to all a goodnight.
 
 ### Week 18: December 27th, 2021
 
-* **Friday**:
-
+* **Friday**: Did not put in any hours this week. Was visiting relatives for a short vacation.
 
 ## END OF 2021
