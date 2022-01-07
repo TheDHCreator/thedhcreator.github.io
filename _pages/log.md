@@ -231,3 +231,70 @@ title: IMMERSE Log
 * **Friday**: Did not put in any hours this week. Was visiting relatives for a short vacation.
 
 ## END OF 2021
+
+## WINTER SEMESTER 2022 BEGINS
+
+### Week 1: January 7th, 2022
+
+* **Friday**: 
+
+### Week 2: January 14th, 2022
+
+* **Friday**:
+
+### Week 3: January 21st, 2022
+
+* **Friday**:
+### Week 4: January 28th, 2022
+
+* **Friday**:
+
+### Week 5: February 4th, 2022
+
+* **Friday**:
+
+### Week 6: February 11th, 2022
+
+* **Friday**:
+
+### Week 7: February 18th, 2022
+
+* **Friday**:
+
+### Week 8: February 25th, 2022
+
+* **Friday**:
+
+### Week 9: March 4th, 2022
+
+* **Friday**:
+
+### Week 10: March 11th, 2022
+
+* **Friday**:
+
+### Week 11: March 18th, 2022
+
+* **Friday**:
+
+### Week 12: March 25th, 2022
+
+* **Friday**:
+
+### Week 13: April 1st, 2022
+
+* **Friday**:
+
+### Week 14: April 8th, 2022
+
+* **Friday**:
+
+### Week 15: April 15th, 2022
+
+* **Friday**:
+
+### Week 16: April 22nd, 2022
+
+* **Friday**:
+
+## WINTER SEMESTER ENDS AND IMMERSE SUMMER 2022 BEGINS
