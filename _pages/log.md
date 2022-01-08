@@ -236,7 +236,7 @@ title: IMMERSE Log
 
 ### Week 1: January 7th, 2022
 
-* **Friday**: 
+* **Friday**: It was a good first week back, but not without its setbacks. I accidentally missed the CCL meeting yesterday because I thought they would resume next week, and I communicated with Dr. Goeders on when he and I will be meeting now that Jarom is gone. I did make a pretty decent amount of progress this week, however. I ran through some tests on the single port asynchronus BRAM design and found that with the original cells_sim definition, it wasn't equivalent because of extra things being included. A second definition (that right now I don't exactly remember where I got it) got through the entire process was there was still some unproven cells at the end. For next week, I need to figure out where I got that newer and smaller cells_sim definition and hopefully in the next week or so finally get these designs up to speed and pushed out so I can get working on whatever phase of the project is next.
 
 ### Week 2: January 14th, 2022
 
