@@ -240,7 +240,7 @@ title: IMMERSE Log
 
 ### Week 2: January 14th, 2022
 
-* **Friday**:
+* **Friday**: It was another great week! I jumped right back into the work and I have a brand new game plan when it comes to my work for the semester. I have taken over what Jarom was working on with equivalence checking. It turns out what he was working on is going to be essential for our equivalence checking process moving forward. My current plan now is to update the yosys scripts to use equiv_struct and to get all our current basic designs to get up to speed and back to equivalent with this new process. If I can get it with them, I can get it (hopefully) with the BRAMs. I met with Dr. Goeders this week to discuss this new game plan and it seems like it is a very good one. I accidentally missed the CCL meeting again, but I will not miss the rest going forward. SHREC is next week and I may attend for a few hours at a time during the few days. So mucb good work is coming, and I feel like I'm back on top of things for the first time in a while. Hopefully the Yosys people will respond as to how I can update our Yosys script further to encompass all the designs with the equiv_struct/equiv_simple method. We shall see what next week brings.
 
 ### Week 3: January 21st, 2022
 
