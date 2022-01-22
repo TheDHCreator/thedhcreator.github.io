@@ -244,7 +244,8 @@ title: IMMERSE Log
 
 ### Week 3: January 21st, 2022
 
-* **Friday**:
+* **Friday**: Pretty good week if I have to say so myself. After being in communication with some folks at Yosys, I now have a functioning script using equiv_simple and equiv_struct that proves equivalence for our 3 most basic designs. The ones with registers/reset signals still have yet to prove equivalence so I will still work on that. Attended a bit of SHREC this week on my own and during the CCL meeting which went great. I accidentally forgot to clock out after finishing up my work week last night so I have to get that taken fixed. I will be more responsible and less forgetful when it comes to my time card in the future.
+
 ### Week 4: January 28th, 2022
 
 * **Friday**:
