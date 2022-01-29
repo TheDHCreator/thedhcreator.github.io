@@ -248,7 +248,7 @@ title: IMMERSE Log
 
 ### Week 4: January 28th, 2022
 
-* **Friday**:
+* **Friday**: A bit of a slower week, but that is all right. I have yet to hear back from the Yosys people on the add4_r and add_r_rst designs I sent them so hopefully they respond back soon with changes to the script to prove design equivalency. Meeting with Dr. Goeders went very well this week. By our meeting next week, I am going to try to look at the BRAM designs a little closer and get the Yosys script to show the actual designs in images. I have yet to still figure that out. Once I get those working I will keep working on updating the new Yosys script so all designs will be passing soon. Next week will be crazy, but I'm looking forward to it.
 
 ### Week 5: February 4th, 2022
 
