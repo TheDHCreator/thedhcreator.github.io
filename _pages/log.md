@@ -252,7 +252,7 @@ title: IMMERSE Log
 
 ### Week 5: February 4th, 2022
 
-* **Friday**:
+* **Friday**: I didn't write this update last Friday, but I am writing it today. Last week, hardly anything was accomplished. I finally heard back from the Yosys people on Monday about a working script for add_4_r. I replied and asked them if there was a version of this ongoing script we've been working on that could account for all of our designs and also ensure a better form of equivalence checking overall with equiv_struct. Waiting to hear back from them still. I got COVID last week so my productivity went in the toilet and nothing really else got done. I am feeling better as of writing this (2/7) and this upcoming week will go much better.
 
 ### Week 6: February 11th, 2022
 
