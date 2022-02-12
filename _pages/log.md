@@ -256,7 +256,7 @@ title: IMMERSE Log
 
 ### Week 6: February 11th, 2022
 
-* **Friday**:
+* **Friday**: Things returned back to proper form this week. I was out of quarantine, I got back to a full 20-hour work week, and I think the new equivalence checking script is almost finished. I didn't get to meet with Dr. Goeders because he had other meetings during our normal time. However, I did attend the CCL meeting, and it was really fun and informative! I hope the Yosys people reply to my inquiry about a one-size-fits-all script for our designs, and if they do, there should be an updated yosys.ys file pushed to BFASST by end of next week. Also, I found out today that my pay was raised to 15 bucks an hour, and that's incredible!!! I am so so thankful for whoever made this change, and it is going to be a huge blessing for me going forward. I will not waste this wonderful opportunity to work even harder.
 
 ### Week 7: February 18th, 2022
 
