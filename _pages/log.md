@@ -260,7 +260,7 @@ title: IMMERSE Log
 
 ### Week 7: February 18th, 2022
 
-* **Friday**:
+* **Friday**: Another good week for the books. Because of its business, Dr. Goeders and I actually forgot to meet, but that's okay. We had plenty of communication throughout the week about which direction our current part of the project should go. Because of our new plans (figuring out how to make all netlists contain LUT6s so equiv_struct can actually work), the issue with Yosys from the last few months was finally closed tonight. Since I have been doing work on the bram branch, I am making a new equivalence checking branch where more work will be done. CCL meeting was great on Thursday as always. I likely won't work next Monday so I can take the day off. Until next week.
 
 ### Week 8: February 25th, 2022
 
