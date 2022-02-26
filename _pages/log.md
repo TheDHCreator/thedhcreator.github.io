@@ -264,7 +264,7 @@ title: IMMERSE Log
 
 ### Week 8: February 25th, 2022
 
-* **Friday**:
+* **Friday**: A little strange week because of its shortness, and it was pretty crazy. Our CCL meeting was unfortunately cancelled, and because of exams and papers due this week for me, I wasn't able to meet with Dr. Goeders. However, before the week concluded, I sent him over the different LUT strucutres of three of our different designs. Starting next week, we will go through them and determine how best to revamp our Yosys equivalence checking script for the last time so all designs can work WITH equiv_struct as the main source of checking. I need to make sure I am focusing as much on my studies as I am on my work. I will do my best to keep doing better to find balanace.
 
 ### Week 9: March 4th, 2022
 
