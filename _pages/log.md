@@ -268,7 +268,7 @@ title: IMMERSE Log
 
 ### Week 9: March 4th, 2022
 
-* **Friday**:
+* **Friday**: March is upon us, and we are back to the regularly scheduled program. This week was very busy school-wise, and not much was done with the current sub-projects. However, a few good things still did happen. The CCL meeting was great as always. Dr. Goeders approved and merged my two pull requests: the current working version of the yosys.py script is now on a new branch and the basic folder got cleaned up. I also sent Dr. Goeders some of the netlists so we can compare them next week and figure out how to get equiv_struct to work with them. The work moves forward!
 
 ### Week 10: March 11th, 2022
 
