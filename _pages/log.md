@@ -272,7 +272,7 @@ title: IMMERSE Log
 
 ### Week 10: March 11th, 2022
 
-* **Friday**:
+* **Friday**: The weeks seem to keep counting down quicker and quicker, don't they? Changes made by Dr. Goeders were merged into BFASST master this week, including a final version of our yosys.py script (for now) because we need to work on fixing errors in larger designs. The CCL meeting was a good practice run for Corey, and I went to his thesis defense today. Dr. Goeders and I were unable to have a regular meeting again, but we communicated through Slack about what I need to do next. I am to go back where Jarom left off on Fasm2bels CI tests for more designs and pick up the work there. I investigated a bit of where I am to begin next week. IMMERSE Summer 2022 is fast approaching!
 
 ### Week 11: March 18th, 2022
 
