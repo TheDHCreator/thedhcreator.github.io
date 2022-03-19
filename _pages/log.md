@@ -276,7 +276,7 @@ title: IMMERSE Log
 
 ### Week 11: March 18th, 2022
 
-* **Friday**:
+* **Friday**: I was able to explore more of the future designs and started running some scripts in conformal to see if they were already equivalent with no changes. So far, every design in the bubblesort folder and the counter folder in the base directory are equivalent! Eureka! Dr. Goeders was out of town for the radiation testing trip, so we weren't able to have our one-on-one meeting, but I was able to go to the CCL meeting. I am going to ask him about if there are other things he wants me to do with the fasm2bels CI stuff or if we just want to work on getting more designs to be equivalent. Till next week!
 
 ### Week 12: March 25th, 2022
 
