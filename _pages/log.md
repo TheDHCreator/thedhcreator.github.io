@@ -280,7 +280,7 @@ title: IMMERSE Log
 
 ### Week 12: March 25th, 2022
 
-* **Friday**:
+* **Friday**: There was some return to normalcy this week. After running extended tests with Conformal and Yosys just with the verify fasm2bels yaml files, I discovered that many designs in the base folder, when using Conformal, are already equivalent! When using Yosys, many are not equivalent, but we are working on that. I was able to finally meet with Dr. Goeders once again this week and discuss for a bit what we should do next. I am going to work on doing fasm2bels CI tests for an 8 to 1 MUX and a UART transmitter. Jarom did a 32-bit adder on the Symbiflow/fasmbels repo many months ago, so I am going to follow the same pattern he did with the MUX first and then the transmitter next. I started looking for MUX designs, and hope to have those tests completed by the middle of next week. Things are getting crazier, and Summer IMMERSE will soon begin. Until next week.
 
 ### Week 13: April 1st, 2022
 
