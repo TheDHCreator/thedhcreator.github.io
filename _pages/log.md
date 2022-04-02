@@ -284,7 +284,7 @@ title: IMMERSE Log
 
 ### Week 13: April 1st, 2022
 
-* **Friday**:
+* **Friday**: This week was one of struggle, and that's not an April Fool's joke. I looked into how Jarom added tests on the fasm2bels page for our 32-bit adder design, and I viewed past Slack messages with him to figure out how to begin the process. I also scowered the web for an 8 to 1 MUX design, since that is the one I'll be working on first. I ran into issues with my Symbiflow repos, not knowing if the one I have cloned is our fork or the actual fasm2bels fork. I am going to figure that out. There was no CCL meeting this week and no personal meeting with Dr. Goeders. Finals are ramping up, and so is Summer IMMERSE 2022. I will do my best to do what I can to get these new fasm2bels test done. Now, on to General Conference!
 
 ### Week 14: April 8th, 2022
 
