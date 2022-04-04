@@ -15,7 +15,7 @@ Before leaving on his mission in the summer of 2017, Samuel assembled and unveil
 
 His sixth book (and final chapter of "The Long Lost Secrets" Series) is still currently in production. A release date for _Dino-Hunters Part Three: Deadlock_ is coming soon. He is also currently co-authoring a religious book with his friend, Abby Tucker.
 
-Some of Samuel's other hobbies and interests include playing piano, ballroom dancing, obsessing over the latest Disney+ Marvel or Star Wars release, sleeping, and eating. 
+If you want to check out what he has been working on outside of IMMERSE, the links to all of his books are down below!
 
 [Dino-Hunters Part One](https://www.amazon.com/Dino-Hunters-Part-Long-Lost-Secrets/dp/1505372496/ref=sr_1_4?dchild=1&qid=1619575958&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-4&text=Samuel+M.+Reynolds)
 
