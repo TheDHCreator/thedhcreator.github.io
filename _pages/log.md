@@ -6,6 +6,7 @@ title: IMMERSE Log
 If you want to see IMMERSE Logs for past semesters, click one of the options below!
 
 [IMMERSE (Fall 2021)](https://thedhcreator.github.io/pages/log-fall2021/)
+
 [IMMERSE (Summer 2021)](https://thedhcreator.github.io/pages/log-summer2021/)
 
 ## WINTER SEMESTER 2022 BEGINS
