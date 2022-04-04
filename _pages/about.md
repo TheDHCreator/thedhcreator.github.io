@@ -3,15 +3,17 @@ layout: default
 title: About Me
 ---
 
+Samuel M. Reynolds was born in Mesa, Arizona in December of 1998. He lived in the nearby Chandler during his younger years. After graduating from Heritage Academy in 2017, Samuel served a mission for The Church of Jesus Christ of Latter-day Saints in the lower suburbs of Seattle, Washington until the Spring of 2019.
 
+Since then, he has been pursuing his Bachelor's Degree in Computer Engineering and a minor in Computer Science from Brigham Young University. In May of 2021, Samuel married his sweet bride, Mikayla, in the Gilbert Arizona Temple. They now live in Provo, Utah. Samuel has been an author since age 15.
 
-Samuel Reynolds was born in Mesa, Arizona in December of 1998. He grew up in the nearby city of Chandler with his parents, younger brother and two younger sisters.      
+When he is not writing new stories, Samuel loves to play the piano, trombone, some guitar, and sing. He also enjoys tackle football, frisbee golf, bowling, and ballroom dance. He cannot seem to get enough of any new Marvel or Star Wars release on Disney+.
 
-After graduating from Heritage Academy in 2017, Samuel served in the Washington Federal Way and Washington Seattle Missions. Upon his return home, he entered the Electrical Engineering Program at Brigham Young University in the Fall of 2019. He is now 22 years old, has completed two years of the program, and has since added two minors to his academic repertoire: Computer Science and Mathematics.
+Samuel dreamt of writing books since the summer of 2010. In November of 2014, he won the NaNoWriMo contest and published his first book with CreateSpace one month later, titled _Dino-Hunters Part One_. Five months later, in May of 2015, he released the sequel, _Dino-Hunters Part Two: Armageddon_. In May of 2017, he announced his third novel, _The Best Six Years: Lessons Learned from a Heritage Academy Scholar_, a personal memoir he dedicated to the wonderful memories of attending Heritage Academy in Mesa from 2011-2017.
 
-Samuel was sealed to his sweetheart, Mikayla, in the Gilbert Temple on May 29th, 2021. Mikayla is deaf and is also a cancer survivor.
+Before leaving on his mission in the summer of 2017, Samuel assembled and unveiled _Dino-Hunters: Ultimate Edition_, a combination of Parts One and Two of the franchise and a special inclusion of the first few of the chapters of the third installment, teasing what was to come. Upon returning home from his mission, he assembled his weekly writings into his fifth book, _Vineyard Among the Evergreens: How Serving the Lord in Washington Changed My Life_, in April of 2020.
 
-In his free time, Samuel continues to further his career as an author. He published his first book on Amazon at age 15 titled "Dino-Hunters Part One" in December 2014. Five months later, he released the sequel, "Dino-Hunters Part Two: Armageddon" to the world. Samuel has written five books in total, with two final novels anticipated to arrive before the end of 2021: one will be the final installment of the "Dino-Hunters" series; the other will be a book he is co-writing with his friend, Abby Tucker, and with the help of BYU Professor and Second Counselor of the General Young Men's Presidency of the Church, Brad Wilcox.
+His sixth book (and final chapter of "The Long Lost Secrets" Series) is still currently in production. A release date for _Dino-Hunters Part Three: Deadlock_ is coming soon. He is also currently co-authoring a religious book with his friend, Abby Tucker.
 
 Some of Samuel's other hobbies and interests include playing piano, ballroom dancing, obsessing over the latest Disney+ Marvel or Star Wars release, sleeping, and eating. 
 
@@ -26,10 +28,9 @@ Some of Samuel's other hobbies and interests include playing piano, ballroom dan
 [Vineyard Among the Evergreens: How Serving the Lord in Washington Changed My Life](https://www.amazon.com/Vineyard-Among-Evergreens-Serving-Washington/dp/1070707708/ref=sr_1_7?dchild=1&qid=1619576189&refinements=p_27%3ASamuel+M.+Reynolds&s=books&sr=1-7&text=Samuel+M.+Reynolds)
 
 
-
 _Dino-Hunters Part Three: Deadlock coming soon!_
 
-_Untitled Book with Abby Tucker and Brad Wilcox coming soon!_ 
+_Untitled Book with Abby Tucker coming soon!_ 
 
 
 
