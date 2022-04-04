@@ -9,6 +9,7 @@ If you want to see IMMERSE Logs for past semesters, click one of the options bel
 
 [IMMERSE (Summer 2021)](https://thedhcreator.github.io/pages/log-summer2021/)
 
+
 ## WINTER SEMESTER 2022 BEGINS
 
 ### Week 1: January 7th, 2022
