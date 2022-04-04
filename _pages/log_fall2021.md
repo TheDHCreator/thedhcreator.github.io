@@ -3,8 +3,6 @@ layout: default
 title: IMMERSE Log (Fall 2021)
 ---
 
-## FALL 2021 SEMESTER BEGINS
-
 ### Week 1: August 30th, 2021
 
 * **Friday**: Didn't work too many hours this week, was getting adjusted to the new school routine. Was only able to experiment with Fasm2bels a little more, didn't get the page done and was waiting to schedule next meeting with Professor Goeders. Will get fasm2bels page done next week along with furthering its testing.
