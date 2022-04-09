@@ -67,7 +67,7 @@ If you want to see IMMERSE Logs for past semesters, click one of the options bel
 
 ### Week 14: April 8th, 2022
 
-* **Friday**:
+* **Friday**: The semester is winding down very quickly, but I am still trying to do what work I can. I moved things around on my IMMERSE site this week to organize it better by semester. The final CCL meeting was very good, and sadly I wasn't able to meet with Dr. Goeders because he was out of town on Wednesday. I am currently still working on an 8 to 1 MUX design for the fasm2bels CI tests, but I am running into issues with Vivado not generating the bitstream properly and I don't fully remember how I ran the process back in the summer when I did the PUDC tests. I will have to ask Dr. Goeders about that process more in depth once I get a functional bitstream next week. Summer IMMERSE is almost here!
 
 ### Week 15: April 15th, 2022
 
