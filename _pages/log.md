@@ -73,7 +73,7 @@ If you want to see IMMERSE Logs for past semesters, click one of the options bel
 
 ### Week 15: April 15th, 2022
 
-* **Friday**:
+* **Friday**: Last week of the semester kinda threw things off a bit. I had to move stations in the lab and set up my computer once again, had to finish my last classes, and attend the kick-off meeting for IMMERSE Summer 2022 and our end of the year CCL party. I will still work on the 8-1 MUX design when I can next week with finals and prepare to get ready for a new partner or two and a summer of lots and lots of work.
 
 ### Week 16: April 22nd, 2022
 
